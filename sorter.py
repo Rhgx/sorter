@@ -8,9 +8,9 @@ from PyQt6.QtWidgets import (
     QCheckBox, QListWidget, QListWidgetItem, QLabel, QGroupBox,
     QAbstractItemView
 )
-from PyQt6.QtCore import QObject, QThread, pyqtSignal, Qt
+from PyQt6.QtCore import QObject, QThread, pyqtSignal
 
-# --- CONFIGURATION (from original script) ---
+# --- CONFIGURATION ---
 # --------------------------------------------
 # These are the default settings. They can be changed by the user in the GUI.
 
