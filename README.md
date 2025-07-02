@@ -102,4 +102,4 @@ You can change the default state of the UI by modifying these constants:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is open-source and available under the [MIT License](LICENSE).
