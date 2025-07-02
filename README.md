@@ -15,7 +15,6 @@ A user-friendly desktop application with a graphical user interface (GUI) for in
 -   **Safe & Responsive:**
     -   The sorting process runs in a background thread to keep the application responsive and prevent it from freezing.
     -   It safely handles filename conflicts by appending a number (e.g., `file_1.txt`) instead of overwriting existing files.
-    -   It will not move the script file itself.
 -   **Detailed Feedback:** A real-time log and a progress bar keep you informed of the entire process, showing which files were moved, renamed, or skipped.
 
 ## Requirements
